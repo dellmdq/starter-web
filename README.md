@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 This a tutorial on how to use Git and GitHub altogether.
 
 ## Deployment
+The deployment is through Git Hub repository system.
+
 
 ## Purpose
 
