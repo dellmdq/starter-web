@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Erik Dell erikdell@gmail.com @dellmdq
 
 # THANKS
 
