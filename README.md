@@ -23,5 +23,8 @@ So then you can give back to community.
 
 Please fork this repository and then issue Pull requests for review.
 
+Por favor tener en cuenta los cambios. HACER UN REBASE cada vez que
+"brancheas".
+
 ### Copyright
 2020. Git Training.
