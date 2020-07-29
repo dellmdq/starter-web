@@ -20,3 +20,6 @@ of GitBash.
 ## How to Contribute
 The best way to contribute is to keep learning and getting better.
 So then you can give back to community.
+
+### Copyright
+2020. Git Training.
