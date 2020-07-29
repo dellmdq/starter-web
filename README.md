@@ -21,5 +21,7 @@ of GitBash.
 The best way to contribute is to keep learning and getting better.
 So then you can give back to community.
 
+Please fork this repository and then issue Pull requests for review.
+
 ### Copyright
 2020. Git Training.
