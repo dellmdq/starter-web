@@ -27,4 +27,4 @@ Por favor tener en cuenta los cambios. HACER UN REBASE cada vez que
 "brancheas".
 
 ### Copyright
-2020. Git Training.
+2020. Git Training. All rights reserved (Stash Class Example update).
