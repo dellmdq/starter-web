@@ -1,6 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Updateing for emergency fix after stashing.
+
 
 ## Introduction
 This a tutorial on how to use Git and GitHub altogether.
