@@ -1,6 +1,8 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Updateing for emergency fix after stashing.
+
 
 ## Introduction
 This a tutorial on how to use Git and GitHub altogether.
@@ -27,4 +29,4 @@ Por favor tener en cuenta los cambios. HACER UN REBASE cada vez que
 "brancheas".
 
 ### Copyright
-2020. Git Training.
+2020. Git Training. All rights reserved (Stash Class Example update).
